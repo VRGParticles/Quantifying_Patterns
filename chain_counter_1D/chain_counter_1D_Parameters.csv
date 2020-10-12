@@ -1,0 +1,2 @@
+﻿file_name, cropping, crop_x1, crop_y1, crop_x2,crop_y2, stdfilt_NHOOD, stdfilt_threshold, gaussian_sigma,image_adjust_LOW_IN, image_adjust_HIGH_IN, image_adjust_LOW_OUT,image_adjust_HIGH_OUT, image_intensity_threshold, area_filter_low,area_filter_high, eccentricity_threshold, particle_distance_threshold,malmin,areamin,perimin,e2c, para_angle1_low, para_angle1_high,para_angle2_low, para_angle2_high, max_chain_length
+Supplementary Image 1.jpg,FALSE,0,0,1200,1200,7,10,1,50,150,0,255,205,60,250,0.79,20,7,70,15,30,-15,15,165,180,6
