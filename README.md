@@ -1,7 +1,7 @@
 # Quantifying_Particles
 Repository for quantifying patterns in optical micrographs of one- and two-dimensional ellipsoidal particle assemblies.
 
-** Publication status of associated manuscript pending. This README.md will be updated upon publication to include the associated manuscript/citation. **
+The corresponding manuscript, *Quantifying patterns in optical micrographs of one- and two-dimensional ellipsoidal particle assemblies*, can be found [here](https://pubs.rsc.org/en/content/articlelanding/2020/sm/d0sm01692f#!divAbstract).
 
 This repository provides image analysis for micrographs of polymorphic particle/colloid assemblies.  
 Ellipsoidal particles are classified into chain lengths and symmetry groups.  
@@ -90,7 +90,7 @@ MATLAB related issues can be solved by viewing the [MATLAB documentation.](https
 
 * **Veronica Grebe** - [Weck Group, New York University](http://weckresearch.com/home)
 
-For a full list of manuscript authors who contributed to the overall project, see the manuscript (url pending).
+For a full list of manuscript authors who contributed to the overall project, see the [manuscript](https://pubs.rsc.org/en/content/articlelanding/2020/sm/d0sm01692f#!divAbstract).
 
 ### License
 
